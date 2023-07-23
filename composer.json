@@ -22,9 +22,8 @@
     "require": {
         "ext-curl": "*",
         "ext-json": "*",
-        "silverstripe/framework": "^4.5",
-        "silverstripe/spamprotection": "~3.0",
-        "silverstripe/vendor-plugin": "^1.0"
+        "silverstripe/framework": "^4.5 || ^5.0",
+        "silverstripe/spamprotection": "*"
     },
     "autoload": {
         "psr-4": {
